@@ -24,6 +24,8 @@ two sources were used:
     farm
     value](http://open.canada.ca/data/en/dataset/b374f60b-9580-44dc-83f6-c0a850c15f30)
 
+There was a cool paper about horses once: (Milner and Hewitt 1969).
+
 ## Methods
 
 The R programming language (R Core Team 2020) and the following R
@@ -90,6 +92,14 @@ Figure 2. Number of horses for province of focus
 # References
 
 <div id="refs" class="references hanging-indent">
+
+<div id="ref-milner1969weight">
+
+Milner, Jean, and D Hewitt. 1969. “Weight of Horses: Improved Estimates
+Based on Girth and Length.” *The Canadian Veterinary Journal* 10 (12):
+314.
+
+</div>
 
 <div id="ref-R">
 
