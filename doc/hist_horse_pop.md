@@ -24,14 +24,14 @@ two sources were used:
     farm
     value](http://open.canada.ca/data/en/dataset/b374f60b-9580-44dc-83f6-c0a850c15f30)
 
-There was a cool paper about horses once: \[@milner1969weight\].
+There was a cool paper about horses once: (Milner and Hewitt 1969).
 
 ## Methods
 
-The R programming language \[@R\] and the following R packages were used
-to perform the analysis: knitr \[@knitr\] and tidyverse \[@tidyverse\].
-The code used to perform the analysis and create this report can be
-found here:
+The R programming language (R Core Team 2020) and the following R
+packages were used to perform the analysis: knitr (Xie 2020) and
+tidyverse (Wickham et al. 2019). The code used to perform the analysis
+and create this report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
 ## Results
@@ -90,3 +90,39 @@ Figure 2. Number of horses for province of focus
 </div>
 
 # References
+
+<div id="refs" class="references hanging-indent">
+
+<div id="ref-milner1969weight">
+
+Milner, Jean, and D Hewitt. 1969. “Weight of Horses: Improved Estimates
+Based on Girth and Length.” *The Canadian Veterinary Journal* 10 (12):
+314.
+
+</div>
+
+<div id="ref-R">
+
+R Core Team. 2020. *R: A Language and Environment for Statistical
+Computing*. Vienna, Austria: R Foundation for Statistical Computing.
+<https://www.R-project.org/>.
+
+</div>
+
+<div id="ref-tidyverse">
+
+Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy
+D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019.
+“Welcome to the tidyverse.” *Journal of Open Source Software* 4 (43):
+1686. <https://doi.org/10.21105/joss.01686>.
+
+</div>
+
+<div id="ref-knitr">
+
+Xie, Yihui. 2020. *Knitr: A General-Purpose Package for Dynamic Report
+Generation in R*. <https://yihui.org/knitr/>.
+
+</div>
+
+</div>
