@@ -75,7 +75,7 @@ time point between 1940 - 1972:
 Table 1. Maximum and mininmun number of horses for each provinces
 between 1940-1972
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of Ontario:
 
 <div class="figure">
 
